@@ -31,7 +31,7 @@ export default {
     imageValidateSizeLabelImageSizeTooSmall: 'Imej terlalu kecil',
     imageValidateSizeLabelImageSizeTooBig: 'Imej terlalu besar',
     imageValidateSizeLabelExpectedMinSize: 'Ukuran minimum adalah {minWidth} × {minHeight}',
-    imageValidateSizeLabelExpectedMaxSize: 'Ukuran maksimum adalah {minWidth} × {minHeight}',
+    imageValidateSizeLabelExpectedMaxSize: 'Ukuran maksimum adalah {maxWidth} × {maxHeight}',
     imageValidateSizeLabelImageResolutionTooLow: 'Resolusi terlalu rendah',
     imageValidateSizeLabelImageResolutionTooHigh: 'Resolusi terlalu tinggi',
     imageValidateSizeLabelExpectedMinResolution: 'Resolusi minimum adalah {minResolution}',
