@@ -1,5 +1,5 @@
 export default {
-    labelIdle: 'Seret & Jatuhkan fail anda atau <span class="filepond--label-action">Jelajahi</span>',
+    labelIdle: 'Seret & Jatuhkan fail anda atau <span class="filepond--label-action">Pilih Fail</span>',
     labelInvalidField: 'Isian berisi fail yang tidak valid',
     labelFileWaitingForSize: 'Menunggu ukuran fail',
     labelFileSizeNotAvailable: 'Ukuran fail tidak tersedia',
